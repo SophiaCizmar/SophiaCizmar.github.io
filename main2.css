@@ -5,11 +5,15 @@ h1 {
 }
 
 h1 { color:lightpink;
-font-size:60px;
-font-family: }
-h2 {color: lightpink;}
-body { background-color:#fef4f6; }
-{font-family: "Galada"}
+font-size:60px; 
+}
+h2 {color: lightpink;font-family: "Galada"}
+body { background-color:#ffffff; font-family: "Merriweather"}
+
 
 #Hobbies { background-color:white;}
 p {color: lightpink;}
+
+div.bg-pink {
+  background-color: lightpink;
+}
