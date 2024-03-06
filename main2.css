@@ -1,5 +1,5 @@
 h1 {
-  font-family: "Galada", cursive;
+  font-family: "Galada",
   font-weight: 400;
   font-style: normal;
 }
@@ -12,7 +12,7 @@ body { background-color:#ffffff; font-family: "Merriweather"}
 
 
 #Hobbies { background-color:white;}
-p {color: lightpink;}
+p {color: rgb(0, 0, 0);}
 
 div.bg-pink {
   background-color: lightpink;
