@@ -1,19 +1,37 @@
-h1 {
-  font-family: "Galada",
+body {
+  font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
-
-h1 { color:lightpink;
-font-size:60px; 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Rowdies", sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
-h2 {color: lightpink;font-family: "Galada"}
-body { background-color:#ffffff; font-family: "Merriweather"}
+
+h1, h2 {
+  color: lightpink;
+  font-size: 60px;
+}
 
 
-#Hobbies { background-color:white;}
-p {color: rgb(0, 0, 0);}
+#Hobbies {
+  background-color: white;
+}
+
+p {
+  color: rgb(0, 0, 0);
+}
 
 div.bg-pink {
+  background-color: lightpink;
+}
+
+.nav-link {
+  color: darkred;
+}
+.nav-link.active {
+  color: darkred;
   background-color: lightpink;
 }
